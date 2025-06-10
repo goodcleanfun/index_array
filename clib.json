@@ -1,0 +1,16 @@
+{
+    "name": "index_array",
+    "version": "0.0.0",
+    "repo": "goodcleanfun/index_array",
+    "description": "Standard arrays for indexes without need for numeric routines",
+    "keywords": [],
+    "license": "MIT",
+    "dependencies": {
+      "aligned_array": "goodcleanfun/aligned_array"
+    },
+    "src": [
+      "src/uint32_index_array.h",
+      "src/uint64_index_array.h"
+    ]
+    
+  }
