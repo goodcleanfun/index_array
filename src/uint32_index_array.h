@@ -11,4 +11,10 @@
 #undef ARRAY_NAME
 #undef ARRAY_TYPE
 
+#define INDEX_VECTOR_NAME uint32_index_vector
+#define INDEX_VECTOR_TYPE uint32_t
+#include "index_vector.h"
+#undef INDEX_VECTOR_NAME
+#undef INDEX_VECTOR_TYPE
+
 #endif
