@@ -1,6 +1,6 @@
 {
     "name": "index_array",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "repo": "goodcleanfun/index_array",
     "description": "Standard arrays for indexes without need for numeric routines",
     "keywords": [],
