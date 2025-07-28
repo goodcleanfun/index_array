@@ -3,14 +3,15 @@
     "version": "0.2.0",
     "repo": "goodcleanfun/index_array",
     "description": "Standard arrays for indexes without need for numeric routines",
-    "keywords": [],
+    "keywords": ["array", "indexes", "vectorized"],
     "license": "MIT",
     "dependencies": {
       "aligned_array": "goodcleanfun/aligned_array"
     },
     "src": [
       "src/uint32_index_array.h",
-      "src/uint64_index_array.h"
+      "src/uint64_index_array.h",
+      "src/index_array_vectorized.h"
     ]
     
   }
