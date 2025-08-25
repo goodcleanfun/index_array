@@ -6,7 +6,8 @@
     "keywords": ["array", "indexes", "vectorized"],
     "license": "MIT",
     "dependencies": {
-        "goodcleanfun/aligned_array": "*"
+        "goodcleanfun/aligned_array": "*",
+        "goodcleanfun/sort": "*"
     },
     "src": [
       "src/uint32_index_array.h",
